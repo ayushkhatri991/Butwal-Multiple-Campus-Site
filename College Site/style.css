@@ -12,7 +12,7 @@
   padding: 12px 20px;
   position: absolute;
   top: 0;
-  background: #a308a3;
+  background: #C4B454;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -208,7 +208,7 @@
 
 .about-text h2 {
   font-size: 32px;
-  color: #153242;
+  color:#C4B454;
   margin-bottom: 15px;
 }
 .about-text p {
@@ -278,7 +278,7 @@
 
 .section-title {
   font-size: 32px;
-  color: #a308a3;
+  color: #C4B454;
   margin-bottom: 30px;
 }
 
@@ -306,7 +306,7 @@
 .course-name {
   font-size: 24px;
   font-weight: bold;
-  color: #a308a3;
+  color: #C4B454;
 }
 
 .course-description {
@@ -324,7 +324,7 @@
   display: inline-block;
   margin-top: 15px;
   padding: 10px 20px;
-  background-color: #a308a3;
+  background-color: #C4B454;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -375,7 +375,7 @@
 .testimonials {
   width: 100%;
   padding: 50px 20px;
-  background-color: #f4f4f4;
+  background-color:#C4B454;
   text-align: center;
 }
 
@@ -473,7 +473,7 @@
 .alumni {
   width: 100%;
   padding: 50px 20px;
-  background-color: #f4f4f4;
+  background-color: #C4B454;
   text-align: center;
 }
 
@@ -492,7 +492,7 @@
 
 .alumni-card {
   background-color: white; /* White background */
-  color: #a308a3; /* Dark text color */
+  color: #C4B454; /* Dark text color */
   width: 23%;
   border-radius: 10px;
   padding: 20px;
@@ -525,7 +525,7 @@
 
 .alumni-position {
   font-size: 14px;
-  color: #1897ca; /* Accent color */
+  color: #C4B454; /* Accent color */
 }
 
 /* Responsive Styles */
@@ -560,7 +560,7 @@
 
 /* footer */
 .footer {
-  background-color: #a308a3; /* Same as navbar */
+  background-color: #C4B454; /* Same as navbar */
   color: white;
   padding: 40px 20px;
   text-align: left;
