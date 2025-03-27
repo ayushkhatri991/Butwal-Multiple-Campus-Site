@@ -12,7 +12,7 @@
   padding: 12px 20px;
   position: absolute;
   top: 0;
-  background: #C4B454;
+  background: Black;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -49,7 +49,7 @@
 }
 
 .menu a:hover {
-  color: #7ac2de;
+  color: red;
 }
 
 /* Content Section */
@@ -83,15 +83,15 @@
   font-size: 8vw !important;
   font-weight: bolder;
   color: white;
-  text-shadow: 3px 3px 5px rgba(79, 155, 193, 0.3),
-    0px 0px 25px rgba(177, 203, 227, 0.8), 0px 0px 10px rgba(105, 142, 153, 0.7);
+  text-shadow: 3px 3px 5px rgba(39, 152, 100, 0.3),
+    0px 0px 25px rgba(0,255,0, 0.8), 0px 0px 10px rgba(105, 142, 153, 0.7);
 }
 
 .address {
   font-size: 25px;
   font-weight: bold;
   color: white;
-  text-shadow: 3px 3px 5px rgba(155, 174, 183, 0.3),
+  text-shadow: 3px 3px 5px rgba(39,152,100, 0.3),
     0px 0px 25px rgba(12, 46, 79, 0.8), 0px 0px 10px rgba(123, 158, 168, 0.7);
 }
 
@@ -272,7 +272,7 @@
 .courses {
   width: 100%;
   padding: 50px 20px;
-  background-color: #f4f4f4;
+  background-color: rgb(165, 42, 42);
   text-align: center;
 }
 
@@ -603,7 +603,7 @@
 }
 
 .footer-left ul li a:hover {
-  color: #1897ca;
+  color: blue;
 }
 
 .footer-right {
